@@ -1,0 +1,120 @@
+.banner {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    background-color: white;
+    color:black;
+  }
+.ricons{
+    color: #3577f1;
+    font-size:20px;
+    margin-top:10px;
+    position: relative;
+    top:5px;
+    right:10px;
+} 
+.i.arrow1 {
+    position: relative;
+    top: 3px;
+    left: 4rem;
+}
+.i.arrow2 {
+    position: relative;
+    top: 3px;
+    left: 2.9rem;
+}
+.i.arrow3 {
+    position: relative;
+    top: 3px;
+    left: 2.2rem;
+}
+.list {
+    margin-left: 14rem;
+    list-style: none;
+    color: #393536d3;
+    font-weight: 500;
+    font-size: 13px;
+    margin-right: 7rem;
+}
+.li-list{
+    padding-bottom:1rem;
+}
+.section-center {
+    display: flex;
+    background-color: #F7F7F7F7;
+    border-radius: 4px;
+    width:fit-content;
+}
+p.text-1 {
+    padding-top: 3rem;
+    padding-left: 2rem;
+    color: #f14678;
+    font-size: 14px;
+    font-weight: 600;
+}
+.i.watch{
+    color:white;
+    background-color:#f14678 ;
+    padding:4px 4px;
+    border-radius:10px;
+    font-size:12px;
+    position: relative;
+    top:5px;
+}
+.text-head{
+    padding-left:2rem;
+    font-size:40px;
+    width:250px;
+    margin-top:0px;
+    
+}
+.shop-text{
+    margin-left:2rem;
+    padding-bottom: 3px;
+    border-bottom:2px solid black;
+    font-weight:600;
+    width: 108px;
+    margin-bottom:6rem;
+}
+.r.arrow{
+    position: relative;
+    top:3px;
+    left:9px;
+
+}
+.banner-img {
+    padding-top: 3rem;
+    padding-left: 4rem;
+    width: 12rem;
+    padding-right: 2rem;
+}
+.watch-img{
+    width: 100%;
+    height: auto;
+}   
+.rigth-sec {
+    margin-left: 2rem;
+    width: 10.4rem;
+}
+.bg-color {
+    display:flex;
+    justify-content: center;
+    background-color: #F7F7F7F7;
+    align-items :center;
+    flex-direction:column;
+}
+.bag-img{
+    width: 70%;
+    height: auto;
+    margin-top:2rem;
+    margin-bottom:1rem
+}
+.text-bag {
+    font-weight: 600;
+    font-size: 16px;
+    color: #878787;
+}
+.prize-text {
+    margin-bottom: 3rem;
+    margin-top: 0px;
+}

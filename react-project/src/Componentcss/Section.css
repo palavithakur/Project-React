@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+    margin:1rem;
+    width:120px;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 0px;
+    padding:40px 25px;  
+    border:2px solid #F7F7F7F7
+}
+svg.icons2 { 
+    color: #3577f1;
+    font-size:40px;
+}

@@ -1,0 +1,30 @@
+.search-bar{
+    display:flex;
+    align-items: center;
+    /* margin-bottom:0px; */
+    padding: 20px 0px 20px 14rem;
+}
+
+.logo{
+    width:50%;
+    height:auto;
+}
+.top-input{
+    padding:10px  25rem  10px 40px;
+    margin-left:0px;
+    border-radius: 3px;
+    border:2px solid #F7F7F7F7
+
+}
+.i.search{
+    position:relative;
+    top:4px;
+    left:30px;
+}
+.sel{
+    padding:10px 10px;
+    border:2px solid #F7F7F7F7;
+    margin-left:2rem;
+    font-weight: 600;
+    font-size:13px;
+}
