@@ -9,7 +9,7 @@ function Searchbar() {
       <div className="logo-div">
         <img src={logo} alt="" className="logo" /> 
       </div>
-      <div> 
+      <div class="input-div"> 
       <BiSearch className="i search"/>
       <input type="text" placeholder="What are you looking for..." className="top-input"/>
       </div>

@@ -4,7 +4,7 @@ import {TbTruckDelivery,TbTruckReturn} from 'react-icons/tb';
 import {VscWorkspaceTrusted} from 'react-icons/vsc';
 import {RiSecurePaymentLine} from 'react-icons/ri';
 import {AiOutlineFileProtect} from 'react-icons/ai';
-function Section() {
+function Section1() {
   return (
     <div className="container">
         <div className="text-center">
@@ -41,4 +41,4 @@ function Section() {
   )
 };
 
-export default Section
+export default Section1;

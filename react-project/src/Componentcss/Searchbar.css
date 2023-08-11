@@ -2,12 +2,15 @@
     display:flex;
     align-items: center;
     /* margin-bottom:0px; */
-    padding: 20px 0px 20px 14rem;
+    padding: 1.2rem 0px 1.2rem 14rem;
 }
 
 .logo{
-    width:50%;
+    width:8vw;
     height:auto;
+}
+.input-div{
+    margin-left:5rem;
 }
 .top-input{
     padding:10px  25rem  10px 40px;

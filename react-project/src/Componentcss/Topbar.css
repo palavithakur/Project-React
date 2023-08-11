@@ -1,0 +1,36 @@
+.top-bar{
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+.Back-imag{
+
+    background-image: url("C:\Users\DELL\OneDrive\Desktop\Project-React\react-project\src\images\bg cover.jpeg");
+    height: 2.5rem;
+    background-size: cover;
+
+}   
+.t-text{
+    font-weight: 600;
+    font-size: 13px;
+    padding: 10px 0px;
+    margin: 0px;
+
+}
+.bold{
+    font-weight: 400;
+    padding-left: 10px;
+    color:rgb(178, 183, 187);
+}
+.text-link{
+    color: white;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.div-icon {
+    position: absolute;
+    right: 30px;
+    top: 8px;
+}
+
+
